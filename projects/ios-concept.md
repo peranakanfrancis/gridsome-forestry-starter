@@ -3,10 +3,12 @@ thumbnail: "/uploads/seafood-curry.jpg"
 title: Fish Curry Paste
 date: 2019-01-03
 categories: []
-project_bg_color: "#BD10E0"
+project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/seafood-curry.jpg)
+
 This Assam Fish Curry recipe has a lot of South Indian flavor - it's a little bit salty and starchy, and the soup has got a lot of flavor going for it. It's got just the right blend of spices for an all-authentic Malaysian-style fish head curry. This is one of the most sought-after dishes by Malaysian curry lovers. And the best part, you can cook it in a very easy and quick way at home with Khimyan's Fish Curry Paste.
 
 Just like when you're using any Khimyan's brand curry paste in your favourite recipes, it's all about options: you can make changes to the recipe to suit your needs. If you want to sink your teeth into a nice, fresh fish head, all you have to do is add one to the recipe, creating a dish that's perfect for your craving. If fresh squid or shellfish is more your thing, then add them to this recipe. Adding shellfish to this recipe will add a hint of sweetness to the finished dish.
@@ -16,8 +18,6 @@ To pull off any good curry fish recipe, you'll need really good fish and that me
 Here an interesting tidbit: some of the local old folk love to use leftover fish curry as a dip for their toast, similar to how people enjoy toasted baguette slices with savory dip. These old folk tell me they enjoy this snack because the flavors in a good fish head curry intensify overnight. If you're interested enough to try this, you can keep some leftover fish head curry overnight in the fridge and reheat it the next day to see the difference in taste!
 
   
-This Penang Nyonya style Assam Fish Curry Recipe serves 4
-
 **Preparation:**
 
 * 600g fish
@@ -29,6 +29,8 @@ This Penang Nyonya style Assam Fish Curry Recipe serves 4
 * 80 ml coconut milk or fresh milk
 * 400 ml water
 * 1 packet Khimyan's Fish Curry Paste
+
+  ![](/uploads/fish.jpg)
 
 **Direction:**
 
