@@ -41,3 +41,28 @@ Here an interesting tidbit: some of the local old folk love to use leftover fish
 Serve hot and enjoy it with rice or bread.
 
 ***
+
+### What our customer says about it
+
+_"I've tried the fish curry, and it also easy to cook, I always thought that cook a bowl of curry need a lot of ingredients and works but now I'm wrong as with this convenient packet, I can cook whenever I wasn't as long as I get a fresh fish from supermarket and few more ingredient, then I can make my own curry to eat. The taste suitable for me which my mom also said my cooking skill is improved :). You may try it sometimes and amazed your friends and family._
+
+_Pss: Who say guys can't cook good food at home? Try yourself."_
+
+**_- Yap Chong, Kuala Lumpur_**
+
+_"It is very very good. i can honestly say that it tastes authentic like you can find in a good hawker or restaurant in Penang. It has been difficult to even get good tasting food in Penang nowaday, yours just perfect to at least come as an option. keep it up."_
+
+**_- Lim Yuh Hock, Kuala Lumpur_**
+
+    <div id="disqus_thread"></div></div><script>
+        var disqus_config = function () {
+            this.page.url = "https://www.khimyan.com/2016/08/05/nyonya-style-assam-fish-head-curry-recipe/";
+            this.page.identifier = "2501781329";
+        };
+        (function() {
+            var d = document, s = d.createElement('script');
+            s.src = 'https://khimyan.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
