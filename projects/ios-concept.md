@@ -2,7 +2,8 @@
 thumbnail: "/uploads/seafood-curry.jpg"
 title: Fish Curry Paste
 date: 2019-01-03
-categories: []
+categories:
+- seafood
 project_bg_color: ''
 project_fg_color: ''
 
