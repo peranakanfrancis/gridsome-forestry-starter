@@ -36,10 +36,11 @@ When it comes to enjoying chicken curry, you can do it in a variety of ways. The
 
   ![](/uploads/chicken.jpg)
 
-  ![(https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-curry-chicken-paste-i1921990015-s7739212479.html?spm=a2o4k.searchlist.list.1.6d704e05kLsUNN&search=1)](/uploads/dlf-pt-artstation-logo-png-5814373.png) !
-[(https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776)](/uploads/pikpng-com_lazada-logo-png_3486296.png)
+  ![](/uploads/dlf-pt-artstation-logo-png-5814373.png)[Shop Now at Shopee](https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776 "Shopee @Shopee") 
 
-**Direction:**
+  ![](/uploads/pikpng-com_lazada-logo-png_3486296.png)[Shop Now at Lazada ](https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776 "Khimyan @Lazada")
+
+  **Direction:**
 
 1. Heat 1 tablespoon of the cooking oil in a pot. Pour 1 packet Khimyan's Curry Chicken Paste into the pot followed by 2 tablespoons of water then [pan-fry](../../../../curry-recipes/the-cooking-terms-tips/index.html#frying "http://www.khimyan.com/curry-recipes/the-glossary-of-cooking-terms/#frying") it for 1 minute.
 2. Add the chicken and potato, then [pan-fry](../../../../curry-recipes/the-cooking-terms-tips/index.html#frying "http://www.khimyan.com/curry-recipes/the-glossary-of-cooking-terms/#frying") for 2 minutes. Pour 300ml water into the pot and bring to boil. Lower the heat down to a [simmer](../../../../curry-recipes/the-cooking-terms-tips/index.html#simmering "http://www.khimyan.com/curry-recipes/the-glossary-of-cooking-terms/#simmering"), then keep it covered for 15 minutes.
@@ -52,9 +53,9 @@ Serve hot and enjoy it with rice or bread.
 ### What our customers say about it
 
     My kids and I love your chicken curry recipe and curry paste so much! It taste like Indian curry with a little chinese, not too hot and every time I cooked chicken curry, my kids can't resist to have another bowl. There is even my home tutor, after she tried one time during home tution, her whole family now is your big fan! Good job!"- Tan Gaik Ling, Penang
-
+    
     "I love the curry you guys make I'm going to try getting different ones, the only one I have tried is the chicken curry one. I have tried many curry pastes from different retailers. My friend ordered this and it had to be the best tasting chicken curry I had ever had. It was awesome, I'm waiting for my order to make my own at home!"- Bokhari Hassan, United States
-
+    
     "I have received my curry and I got to admit the curry paste is different has a strong but not bland taste that I have already recommended to friends and family."- Jason Cruzado, United States
 
 ***
