@@ -26,8 +26,8 @@ When it comes to enjoying chicken curry, you can do it in a variety of ways. The
 
 **Preparation:**
 
-* 600g chicken ([diced](../../../../curry-recipes/the-cooking-terms-tips/index.html#dicing "http://www.khimyan.com/curry-recipes/the-glossary-of-cooking-terms/#dicing"))
-* 2 potato ([peeled](../../../../curry-recipes/the-cooking-terms-tips/index.html#peeling "http://www.khimyan.com/curry-recipes/the-glossary-of-cooking-terms/#peeling") and [diced](../../../../curry-recipes/the-cooking-terms-tips/index.html#dicing "http://www.khimyan.com/curry-recipes/the-glossary-of-cooking-terms/#dicing"))
+* 600g chicken (diced)
+* 2 potato (peeled and diced)
 * 1 tablespoon cooking oil
 * 2 tablespoon water
 * 300 ml water
