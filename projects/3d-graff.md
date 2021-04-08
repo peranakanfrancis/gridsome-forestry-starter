@@ -1,19 +1,19 @@
 ---
-thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
-title: Ice Cream
+thumbnail: "/uploads/thai-tom-yam.png"
+title: Thai Tom Yam 冬炎汤即煮酱
 date: '2019-01-04'
 categories:
 - photography
 - yellow
 project_bg_color: ''
-project_fg_color: "#FDC70D"
+project_fg_color: "#F1AB8D"
 
 ---
-This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one that you'll want to use over and over again. Tom Yum soup is a one of the most popular dishes in Southeast Asia. Due to the combination of herbs and spices we've used in our paste, our Seafood Tom Yum soup is less spicy and a tad bit more sour.
+![](/uploads/thai-tom-yam.png)This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one that you'll want to use over and over again. Tom Yum soup is a one of the most popular dishes in Southeast Asia. Due to the combination of herbs and spices we've used in our paste, our Seafood Tom Yum soup is less spicy and a tad bit more sour.
 
 I'm gonna share with you the alternative and easier way to enjoy Tom Yum Soup. The first more common option is to cook it with noodles, and a variety of other ingredients like chicken, cuttlefish, mushroom, fish fillets and shelled seafood, just to name a few. Here in Penang, hawkers that sell Tom Yum noodle soup normally would have all these ingredients ready on flat trays or plates and when you step up to them and tell them you want a Tom Yum Noodle Soup, they'll ask you which ingredients you want to have in your soup. You make the selection and voila, they'll cook all those ingredients on the spot and add them to the noodle soup for you.
 
-The second option is really more for people like me, who have very limited time to make a meal what more to eat one. All I do is replace the flavoring for my instant cup noodles with [Khimyan Curry's Paste for Tom Yum Soup](../../../../Unknown.html "Paste for Tom Yum Soup") and I've got a cup of instant noodles with a stronger and spicier taste. Throw in a few sausage slices, some slices of ham and an egg on top of the tom yum soup and you've got yourself a meal that took mere minutes to prepare.
+The second option is really more for people like me, who have very limited time to make a meal what more to eat one. All I do is replace the flavoring for my instant cup noodles with [Khimyan Curry's Paste for Tom Yum Soup](../../../../Unknown.html "Paste for Tom Yum Soup") and I've got a cup of instant noodles with a stronger and spicier taste. Throw in a few sausage slices, some slices of ham and an egg on top of the tom yum soup and you've got yourself a meal that took mere minutes to prepare.![](/uploads/tom-yum-seafood-soup.jpg)
 
 ***
 
