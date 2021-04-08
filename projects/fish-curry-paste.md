@@ -3,7 +3,10 @@ thumbnail: "/uploads/fish-prawn-curry-paste.png"
 title: Fish & Prawn Curry Paste
 date: '2019-01-03'
 categories:
-- seafood
+- prawn
+- cuttle fish
+- fish
+- crab
 project_bg_color: ''
 project_fg_color: ''
 
