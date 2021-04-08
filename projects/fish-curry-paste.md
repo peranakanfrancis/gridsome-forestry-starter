@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/fish-prawn-curry-paste.png"
-title: Fish & Prawn Curry Paste
+title: Fish & Prawn Curry Paste 咖喱鱼虾即煮料
 date: '2019-01-03'
 categories:
 - prawn
