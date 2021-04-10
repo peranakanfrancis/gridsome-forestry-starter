@@ -31,9 +31,13 @@ Here's an interesting tidbit: some of the local old folk love to use leftover fi
 * 1 onion (sliced)
 * 80 ml coconut milk or fresh milk
 * 400 ml water
-* 1 packet Khimyan's Fish & Prawn Curry Paste
+  * 1 packet Khimyan's Fish & Prawn Curry Paste
 
-  ![](/uploads/fish.jpg)
+    ![](/uploads/fish.jpg)
+
+    [Shop Now on Shopee]()
+
+    [Shop Now on Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-fish-prawn-curry-paste-i1921872270-s7739144298.html?spm=a2o4k.searchlist.list.9.15481e09V6WQKG&search=1 "Buy Khimyan Fish & Prawn Curry Paste @ Lazada")
 
 **Direction:**
 
