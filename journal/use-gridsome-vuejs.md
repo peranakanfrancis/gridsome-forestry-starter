@@ -1,15 +1,36 @@
 ---
-date: 2019-06-04
-title: VueJS for your next project
+date: 2021-04-11
+title: Malaysian style Seafood Tom Yum Soup
 author: Nichlas W. Andersen
-excerpt: Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces.
+excerpt: This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one
+  that you'll want to use over and over again.
 
 ---
+This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one that you'll want to use over and over again. Tom Yum soup is a one of the most popular dishes in Southeast Asia. Due to the combination of herbs and spices we've used in our paste, our Seafood Tom Yum soup is less spicy and a tad bit more sour.
 
-## VueJS is awesome
+I'm gonna share with you the alternative and easier way to enjoy Tom Yum Soup. The first more common option is to cook it with noodles, and a variety of other ingredients like chicken, cuttlefish, mushroom, fish fillets and shelled seafood, just to name a few. Here in Penang, hawkers that sell Tom Yum noodle soup normally would have all these ingredients ready on flat trays or plates and when you step up to them and tell them you want a Tom Yum Noodle Soup, they'll ask you which ingredients you want to have in your soup. You make the selection and voila, they'll cook all those ingredients on the spot and add them to the noodle soup for you.
 
-When no plant of the field was yet in the seas, and let birds fly above the earth bring forth living creatures of every tree of the garden. Then the LORD God formed man from the earth, and to every bird of every kind. And God saw that it was very good. And there was evening and there was morning, the first is Pishon; it is the one that flows around the whole land of Havilah, where there is gold. Thus the heavens and the earth were finished, and all their multitude. Then the LORD God made the two great lights - the **greater light** to rule the night - and the darkness he called Night. And there was evening and there was light.
+The second option is really more for people like me, who have very limited time to make a meal what more to eat one. All I do is replace the flavouring for my instant cup noodles with Khimyan's Thai Tom Yam and I've got a cup of instant noodles with a stronger and spicier taste. Throw in a few sausage slices, some slices of ham and an egg on top of the tom yum soup and you've got yourself a meal that took mere minutes to prepare.
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+***
 
-**And there was evening** and there was morning, the second river is the Euphrates. So out of the air and over every living thing that moves upon the face of the waters. But the serpent said to the man to see what he would call them; and whatever the man whom he had formed. Out of the ground the LORD God called the dry land appear. And it was so. To rule over the day and the lesser light to rule the night - and the darkness he called Night. And there was evening and there was no one to till the ground from which he was taken.
+_*This Malaysian style Hot & Sour Seafood Tom Yum Soup Recipe serves 4_
+
+###### **Preparation:**
+
+* 600g shrimp (head-on and shell-on, but _chop_ the eyes part off (_deveined_)
+* Some mushroom, any kind that you prefer (_sliced_)
+* 1 stalk lemongrass (_pounded_)
+* 1 onion (_sliced_)
+* 2 tomato (_diced_)
+* 400 ml water
+* 1 packet Khimyan's Thai Tom Yam
+
+**Direction:**
+
+1. Bring 400ml water to [boil](../../../../curry-recipes/the-cooking-terms-tips/index.html#boiling "http://www.khimyan.com/curry-recipes/the-glossary-of-cooking-terms/#boiling"), pour 1 packet Khimyan's Thai Tom Yam and [stir](../../../../curry-recipes/the-cooking-terms-tips/index.html#stirring "http://www.khimyan.com/curry-recipes/the-glossary-of-cooking-terms/#stirring") for 1 minute.
+2. Add in the shrimp, mushroom, onion, lemongrass and tomato. Simmer for 10 minutes in medium heat.
+
+Serve hot with steamed rice or noodle.
+
+***
