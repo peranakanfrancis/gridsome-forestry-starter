@@ -12,6 +12,8 @@ I'm gonna share with you the alternative and easier way to enjoy Tom Yum Soup. T
 
 The second option is really more for people like me, who have very limited time to make a meal what more to eat one. All I do is replace the flavouring for my instant cup noodles with Khimyan's Thai Tom Yam and I've got a cup of instant noodles with a stronger and spicier taste. Throw in a few sausage slices, some slices of ham and an egg on top of the tom yum soup and you've got yourself a meal that took mere minutes to prepare.
 
+![](/uploads/tom-yum-seafood-soup.jpg)
+
 ***
 
 _*This Malaysian style Hot & Sour Seafood Tom Yum Soup Recipe serves 4_
