@@ -4,7 +4,6 @@ title: Buy Khimyan Thai Tom Yam 冬炎汤即煮酱
 date: '2019-01-04'
 categories:
 - seafood
-- recipe
 - 150g
 project_bg_color: ''
 project_fg_color: "#F1AB8D"
