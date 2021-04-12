@@ -1,7 +1,7 @@
 ---
 date: 2021-04-11
-title: Malaysian style Seafood Tom Yum Soup
-author: Nichlas W. Andersen
+title: Seafood Tom Yum Soup
+author: Peter Tan
 excerpt: This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one
   that you'll want to use over and over again.
 
