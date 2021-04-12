@@ -4,8 +4,14 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          a wise person once said...
+          want to enjoy a nice curry at home that takes only minutes to prepare and cook?
         </h1>
+	<p>
+	Khimyan has a wide-range of curry pastes, each one created after a specific curry dish and each one made from a time-honored family recipe. 
+	We use high-quality natural ingredients as our raw material and blend them together using our secret process, creating the curry pastes which you enjoy and offer you an authentic curry experience.
+	When you use Khimyan Curry, you'll only be enjoying real curry and ingredient. And because we love seeing new recipes from the foodie community, so if you've got a recipe that uses any of our curry pastes, please do share it with us. 
+	In return, we'll reward you with a mystery gift for your contributions. And we definitely can't wait to try your recipes!
+	</p>
       </div>
     </div>
 
