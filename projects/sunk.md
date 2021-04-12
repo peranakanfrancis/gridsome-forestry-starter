@@ -1,11 +1,10 @@
 ---
 thumbnail: "/uploads/curry-chicken-paste.png"
-title: Curry Chicken Paste 咖喱鸡即煮酱
+title: Buy Curry Chicken Paste 咖喱鸡即煮酱
 date: '2019-02-06'
 categories:
 - chicken
-- meat
-- recipe
+- 200g
 project_bg_color: "#EDEDED"
 project_fg_color: "#30AD57"
 
