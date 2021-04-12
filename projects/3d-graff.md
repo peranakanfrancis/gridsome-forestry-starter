@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/thai-tom-yam.png"
-title: Thai Tom Yam 冬炎汤即煮酱
+title: Buy Khimyan Thai Tom Yam 冬炎汤即煮酱
 date: '2019-01-04'
 categories:
 - seafood
@@ -10,15 +10,21 @@ project_bg_color: ''
 project_fg_color: "#F1AB8D"
 
 ---
-![](/uploads/thai-tom-yam.png)This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one that you'll want to use over and over again. Tom Yum soup is a one of the most popular dishes in Southeast Asia. Due to the combination of herbs and spices we've used in our paste, our Seafood Tom Yum soup is less spicy and a tad bit more sour.
+![](/uploads/thai-tom-yam.png)
 
-I'm gonna share with you the alternative and easier way to enjoy Tom Yum Soup. The first more common option is to cook it with noodles, and a variety of other ingredients like chicken, cuttlefish, mushroom, fish fillets and shelled seafood, just to name a few. Here in Penang, hawkers that sell Tom Yum noodle soup normally would have all these ingredients ready on flat trays or plates and when you step up to them and tell them you want a Tom Yum Noodle Soup, they'll ask you which ingredients you want to have in your soup. You make the selection and voila, they'll cook all those ingredients on the spot and add them to the noodle soup for you.
+[Shop on Shopee](https://shopee.com.my/Halal-Khimyan-Tom-Yam-Paste-orignal-Bangkok-taste-i.270483561.5837071200) 
 
-The second option is really more for people like me, who have very limited time to make a meal what more to eat one. All I do is replace the flavoring for my instant cup noodles with Khimyan's Thai Tom Yam and I've got a cup of instant noodles with a stronger and spicier taste. Throw in a few sausage slices, some slices of ham and an egg on top of the tom yum soup and you've got yourself a meal that took mere minutes to prepare.![](/uploads/tom-yum-seafood-soup.jpg)
+[Buy on Lazada](https://www.lazada.com.my/products/khimyan-brand-thai-tomyam-i493324065.html)
 
-***
+**Each pack contains:**
 
-### This Malaysian style Hot & Sour Seafood Tom Yum Soup Recipe serves 4
+* Energy 320 kcal / 1342 kj
+* Fat 25 g
+* Saturates 9 g
+* Sugars 6 g
+* Salt 3.4 g
+
+_This Malaysian style Hot & Sour Seafood Tom Yum Soup Recipe serves 4_
 
 **Preparation:**
 
@@ -35,6 +41,8 @@ The second option is really more for people like me, who have very limited time 
 1. Bring 400ml water to boil, pour 1 packet Khimyan's Thai Tom Yam and stir for 1 minute.
 2. Add in the shrimp, mushroom, onion, lemongrass and tomato. Simmer for 10 minutes in medium heat.
 
-Serve hot with steamed rice or noodle
+Serve hot with steamed rice or noodle.
 
 ***
+
+> _"Before that, I never eat tom yum coz I think it is too spicy until one day my friend forced me to try and I remembered it was in your father's restaurant. After that, I tried a lot of tom yum in different place but I'm still prefer yours. Thank god that I can buy your tom yum paste and make myself at home now. It is recommend to everyone else who likes to eat the fantastic taste of Thailand tom yum."_ - Zeon Wong, Penang
