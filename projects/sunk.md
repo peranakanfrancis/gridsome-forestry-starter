@@ -5,11 +5,14 @@ date: '2019-02-06'
 categories:
 - chicken
 - 200g
+- RM5.00
 project_bg_color: "#EDEDED"
-project_fg_color: "#30AD57"
+project_fg_color: ''
 
 ---
-![](/uploads/curry-chicken-paste.png)
+[![Khimyan Curry Chicken Paste](/uploads/curry-chicken-paste.png "Shop Now at Shopee")Shop Now at Shopee](https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776)
+
+https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776
 
 Each pack contains:
 
@@ -29,12 +32,6 @@ Each pack contains:
 * 80 ml coconut milk or use fresh milk
 * 1 packet Khimyan's Curry Chicken Paste
 
-  ![](/uploads/chicken.jpg)
-
-  [Shop Now at Shopee](https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776 "Shopee @Shopee")
-
-  [Shop Now at Lazada ](https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776 "Khimyan @Lazada")
-
   **Direction:**
 
 1. Heat 1 tablespoon of the cooking oil in a pot. Pour 1 packet Khimyan's Curry Chicken Paste into the pot followed by 2 tablespoons of water then pan-fry it for 1 minute.
@@ -47,7 +44,6 @@ Serve hot and enjoy it with rice or bread.
 
 ### What our customers say about this
 
->   
 > _"I have received my curry and I got to admit the curry paste is different has a strong but not bland taste that I have already recommended to friends and family."_ - Jason Cruzado, United States
 
 > _"My kids and I love your chicken curry recipe and curry paste so much! It taste like Indian curry with a little chinese, not too hot and everytime I cooked chicken curry, my kids can't resist to have another bowl. There is even my home tutor, after she tried one time during home tution, her whole family now is your big fan! Good job!"_ - Tan Gaik Ling, Penang
