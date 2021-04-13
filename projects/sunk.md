@@ -7,16 +7,17 @@ categories:
 - 200g
 - RM5.00
 - shopee
-- lazada
 project_bg_color: "#EDEDED"
 project_fg_color: ''
 
 ---
 ![](/uploads/curry-chicken-paste.png)
 
-### Shop at [Shopee](https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776)  or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-curry-chicken-paste-i1921990015-s7739212479.html?spm=a2o4k.pdp_revamp.recommendation_1.1.3e687855zsyDxd&mp=1&scm=1007.16389.126158.0&clickTrackInfo=fa55320c-b974-4308-bf56-0599402cdc21__1921990015__10003315__trigger2i__124572__1.0__0.9748926__0.0__0.0__0.0__0.9748926__0__null__null__null__null__null__null____10.0__0.377__0.0__0__6.23__103150,110008,110642__null__null__null__3650.16536__null)  ｜ [WhatsApp](https://wa.link/8h7k1d) for Wholesale
+### Shop at [Shopee](https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776)  or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-curry-chicken-paste-i1921990015-s7739212479.html?spm=a2o4k.pdp_revamp.recommendation_1.1.3e687855zsyDxd&mp=1&scm=1007.16389.126158.0&clickTrackInfo=fa55320c-b974-4308-bf56-0599402cdc21__1921990015__10003315__trigger2i__124572__1.0__0.9748926__0.0__0.0__0.0__0.9748926__0__null__null__null__null__null__null____10.0__0.377__0.0__0__6.23__103150,110008,110642__null__null__null__3650.16536__null)  ｜ [WhatsApp](https://wa.link/8h7k1d) for wholesaling or retailing
 
-**Each pack contains:**
+***
+
+### **Each pack contains:**
 
 * Energy 436 kcal / 1823 kj
 * Fat 40 g
@@ -24,7 +25,9 @@ project_fg_color: ''
 * Sugars 4.8g
 * Salt 2.5 g
 
-  **Preparation:**
+  ***
+
+  ### **Preparation:**
 * 600g chicken (diced)
 * 2 potato (peeled and diced)
 * 1 tablespoon cooking oil
@@ -33,7 +36,9 @@ project_fg_color: ''
 * 80 ml coconut milk or use fresh milk
 * 1 packet Khimyan's Curry Chicken Paste
 
-  **Direction:**
+  ***
+
+  ### **Direction:**
 
 1. Heat 1 tablespoon of the cooking oil in a pot. Pour 1 packet Khimyan's Curry Chicken Paste into the pot followed by 2 tablespoons of water then pan-fry it for 1 minute.
 2. Add the chicken and potato, then pan-fry for 2 minutes. Pour 300ml water into the pot and bring to boil. Lower the heat down to a simmer, then keep it covered for 15 minutes.
