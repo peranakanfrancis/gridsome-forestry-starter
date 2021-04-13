@@ -7,6 +7,7 @@ categories:
 - 200g
 - RM5.00
 - shopee
+- lazada
 project_bg_color: "#EDEDED"
 project_fg_color: ''
 
