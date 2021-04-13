@@ -1,19 +1,19 @@
 ---
 thumbnail: "/uploads/thai-tom-yam.png"
-title: Buy Khimyan Thai Tom Yam 冬炎汤即煮酱
+title: Buy Khimyan Thai Tom Yam
 date: '2019-01-04'
 categories:
 - seafood
 - 150g
+- RM5.00
+- shopee
 project_bg_color: ''
 project_fg_color: "#F1AB8D"
 
 ---
 ![](/uploads/thai-tom-yam.png)
 
-[Shop on Shopee](https://shopee.com.my/Halal-Khimyan-Tom-Yam-Paste-orignal-Bangkok-taste-i.270483561.5837071200) 
-
-[Buy on Lazada](https://www.lazada.com.my/products/khimyan-brand-thai-tomyam-i493324065.html)
+### Shop on [Shopee](https://shopee.com.my/Halal-Khimyan-Tom-Yam-Paste-orignal-Bangkok-taste-i.270483561.5837071200) | [Whatsapp](https://wa.link/8h7k1d) for wholesaling or retailing 
 
 **Each pack contains:**
 
@@ -22,8 +22,6 @@ project_fg_color: "#F1AB8D"
 * Saturates 9 g
 * Sugars 6 g
 * Salt 3.4 g
-
-_This Malaysian style Hot & Sour Seafood Tom Yum Soup Recipe serves 4_
 
 **Preparation:**
 
@@ -39,9 +37,10 @@ _This Malaysian style Hot & Sour Seafood Tom Yum Soup Recipe serves 4_
 
 1. Bring 400ml water to boil, pour 1 packet Khimyan's Thai Tom Yam and stir for 1 minute.
 2. Add in the shrimp, mushroom, onion, lemongrass and tomato. Simmer for 10 minutes in medium heat.
-
-Serve hot with steamed rice or noodle.
+3. Serve hot with steamed rice or noodle.
 
 ***
+
+### What our customers say about this
 
 > _"Before that, I never eat tom yum coz I think it is too spicy until one day my friend forced me to try and I remembered it was in your father's restaurant. After that, I tried a lot of tom yum in different place but I'm still prefer yours. Thank god that I can buy your tom yum paste and make myself at home now. It is recommend to everyone else who likes to eat the fantastic taste of Thailand tom yum."_ - Zeon Wong, Penang
