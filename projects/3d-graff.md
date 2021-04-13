@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/thai-tom-yam.png"
+thumbnail: "/uploads/tom-yum-seafood-soup.jpg"
 title: Buy Khimyan Thai Tom Yam
 date: '2019-01-04'
 categories:
@@ -43,4 +43,4 @@ project_fg_color: "#F1AB8D"
 
 ### What our customers say about this
 
-> _"Before that, I never eat tom yum coz I think it is too spicy until one day my friend forced me to try and I remembered it was in your father's restaurant. After that, I tried a lot of tom yum in different place but I'm still prefer yours. Thank god that I can buy your tom yum paste and make myself at home now. It is recommend to everyone else who likes to eat the fantastic taste of Thailand tom yum."_ - Zeon Wong, Penang
+> _"Before that, I never eat tom yum coz I think it is too spicy until one day my friend forced me to try and I remembered it was in your father's restaurant. After that, I tried a lot of tom yum in different place but I'm still prefer yours. Thank goodness that I can buy your tom yum paste and make myself at home now. It is recommend to everyone else who likes to eat the fantastic taste of Thailand tom yum."_ - Zeon Wong, Penang
