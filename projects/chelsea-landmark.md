@@ -13,6 +13,10 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+![](/uploads/penang-hokkien-mee-paste.png)
+
+***
+
 ### Each pack contains:
 
 * Energy 565 kcal / 2364 kj
@@ -20,3 +24,5 @@ project_fg_color: ''
 * Saturates 14.4 g
 * Sugars 21.9 g
 * Salt 5.6 g
+
+  ***
