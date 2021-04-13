@@ -8,6 +8,7 @@ categories:
 - noodle
 - 150g
 - RM5.90
+- shopee
 project_bg_color: ''
 project_fg_color: ''
 
