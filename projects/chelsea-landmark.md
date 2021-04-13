@@ -1,16 +1,21 @@
 ---
-date: 2019-05-16
+date: '2019-05-16'
 year: 2019
-title: Banana
+title: Buy Penang Hokkien Mee Paste
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/penang-prawn-mee.jpg"
 categories:
-- photography
-- pink
+- noodle
+- 150g
+- RM5.90
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
+### Each pack contains:
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+* Energy 565 kcal / 2364 kj
+* Fat 30.2 g
+* Saturates 14.4 g
+* Sugars 21.9 g
+* Salt 5.6 g
