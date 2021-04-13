@@ -12,7 +12,13 @@ project_bg_color: ''
 project_fg_color: "#ED331B"
 
 ---
-**Preparation:**
+![](/uploads/fish-prawn-curry-paste.png)
+
+### Shop Now on [Shopee](https://shopee.com.my/Halal-Khimyan-Seafood-Curry-Paste-i.270483561.5637087510) or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-fish-prawn-curry-paste-i1921872270-s7739144298.html?spm=a2o4k.searchlist.list.9.15481e09V6WQKG&search=1 "Buy Khimyan Fish & Prawn Curry Paste @ Lazada") | [WhatsApp](https://wa.link/8h7k1d) for wholesaling or retailing.
+
+***
+
+### **Preparation:**
 
 * 600g fish
 * 50g shrimp (shelled and deveined)
@@ -22,21 +28,16 @@ project_fg_color: "#ED331B"
 * 1 onion (sliced)
 * 80 ml coconut milk or fresh milk
 * 400 ml water
-  * 1 packet Khimyan's Fish & Prawn Curry Paste
+* 1 packet Khimyan's Fish & Prawn Curry Paste
 
-    ![](/uploads/fish.jpg)
+  ***
 
-    [Shop Now on Shopee]()
-
-    [Shop Now on Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-fish-prawn-curry-paste-i1921872270-s7739144298.html?spm=a2o4k.searchlist.list.9.15481e09V6WQKG&search=1 "Buy Khimyan Fish & Prawn Curry Paste @ Lazada")
-
-**Direction:**
+### **Direction:**
 
 1. Bring 400ml water to boil, then pour 1 packet of Khimyan's Fish Curry Paste and stir for 1 minute.
 2. Add in fish, shrimp, okra, eggplant and tomato, cook in medium heat for 10 minutes. Add the coconut milk and bring it to boil.
 3. Sprinkle the onion slices on top.
-
-Serve hot and enjoy it with rice or bread.
+4. Serve hot and enjoy it with rice or bread.
 
 ***
 
