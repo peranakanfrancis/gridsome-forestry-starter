@@ -1,26 +1,35 @@
 ---
-date: 2019-05-17
-title: About Typography
-author: Nichlas W. Andersen
-excerpt: Font face, vertical rythm, readability, this long fake text should flow.
+date: 2021-04-14
+title: Mixed Vegetable Curry
+author: Peter Tan
+excerpt: 'We''ve got a good mix of vegetables: pepper/capsicum, eggplant, long bean,
+  okra and mushroom.'
 
 ---
+The first thing you'll notice about the mixed vegetable curry recipe is that it offers a lot of bright colors, and that's because the vegetables involved are so colorful! We've got a good mix of vegetables: pepper/capsicum, eggplant, long bean, okra and mushroom. This is a great recipe for a vegetarian curry lover, as the Khimyan's Vegetarian Curry Paste is made with vegetarians in mind - there is no garlic and onion in the paste.
 
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+When it comes to the carbs for this curry, I love serving it with either rice or yellow noodle. They absorb the flavor well and with the curry, make a truly satisfying meal. Maybe you'll have the perfect to enjoy your version of the mixed vegetable curry recipe.
 
-Still it was a handgun and nine rounds of ammunition, and as he made his way down Shiga from the Chinese program’s thrust, a worrying impression of solid fluidity, as though the shards of a [slick headless CMS](https://forestry.io) bent and elongated as they rotated, but it never told the correct time.
+**P/s**: If you want something texture, feel free to to add the vegetarian meat substitute to the recipe. I suggest using vegetarian fish fillet - you can [deep-fry](../../../../curry-recipes/the-cooking-terms-tips/index.html "The Glossary of Cooking Terms") the fish fillet in a saucepan before adding it into the curry. It will add some extra crunch to the curry.
 
-## William Gibson
+***
 
-Why bother with the movement of the train, their high heels like polished hooves against the gray metal of the Sprawl’s towers and ragged Fuller domes, dim figures moving toward him in the dark. Light from a service hatch at the rear wall dulling the roar of the deck sting his palm as he made his way down Shiga from the sushi stall he cradled it in his capsule in some coffin hotel, his hands clawed into the shadow of the console. She peered at the clinic, Molly took him to the simple Chinese hollow points Shin had sold him. None of that prepared him for the arena, the crowd, the tense hush, the towering puppets of light from a half-open service hatch framed a heap of discarded fiber optics and the drifting shoals of waste.
+### **Preparation:**
 
-### Still it was a square of faint light
+* 3 colors bell pepper (sliced)
+* 1 eggplant (diced)
+* 10 okra (sliced)
+* 100g long bean (sliced)
+* mushroom or champignon (diced)
+* 400ml water
+* 80ml coconut milk or fresh milk
+* 1 packet Khimyan Vegetarian Curry Paste
 
-The alarm still oscillated, louder here, the rear of the deck sting his palm as he made his way down Shiga from the sushi stall he cradled it in his jacket pocket. He’d waited in the shade beneath a bridge or overpass. The two surviving Founders of Zion were old men, old with the movement of the train, their high heels like polished hooves against the gray metal of the room where Case waited.
+**Direction:**
 
-Still it was a square of faint light. Why bother with the movement of the train, their high heels like polished hooves against the gray metal of the console in faded pinks and yellows. The alarm still oscillated, louder here, the rear of the Villa bespeak a turning in, a denial of the bright void beyond the hull. Then a mist closed over the black water and the dripping chassis of a heroin factory. She put his pistol down, picked up her fletcher, dialed the barrel over to single shot, and very carefully put a toxin dart through the center of a broken mirror bent and elongated as they fell.
+1. Bring 400ml water to boil, then pour 1 packet of Khimyan Vegetarian Curry Paste and stir for 1 minute.
+2. Add the bell pepper, eggplant, long bean, okra and mushroom. Cover the lid and lower the heat to medium, allow the curry to simmer for about 10 minutes or until all the ingredients are cooked.
+3. You may add 80ml coconut milk or fresh milk, as you prefer, and let it simmer for another 2 minutes.
+4. Serve hot and enjoy it with rice, bread or yellow noodle.
 
-
-#### Images formed and reformed
-
-A flickering montage of the Sprawl’s towers and ragged Fuller domes, dim figures moving toward him in the tunnel’s ceiling.
+***
