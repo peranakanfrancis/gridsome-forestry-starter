@@ -15,7 +15,7 @@ project_fg_color: ''
 ---
 ![](/uploads/penang-hokkien-mee-paste.png)
 
-## Shop on  [Shopee](https://shopee.com.my/Halal-Khimyan-Brand-Penang-Hokkien-Mee(-Prawn-Mee)-Paste-i.270483561.4337065821) or [WhatsApp](https://wa.link/8h7k1d) for wholesaling and retailing
+## Shop on  [Shopee](https://shopee.com.my/Halal-Khimyan-Brand-Penang-Hokkien-Mee(-Prawn-Mee)-Paste-i.270483561.4337065821) or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-penang-curry-mee-paste-i1921974270-s7739228667.html?spm=a2o4k.searchList.list.3.69ea6697Fu9H7O&search=1) | [WhatsApp](https://wa.link/8h7k1d) for wholesaling and retailing
 
 ***
 
@@ -49,10 +49,10 @@ project_fg_color: ''
 4. Pour in the hot soup and sprinkle with a handful of the fried shallots.
 5. Serve hot!
 
-**_*Tip 1_:** 
+**_*Tip 1_:**
 
 Shrimp shells, tails, and even the heads are packed with delicious, briny flavour. Save them and make a quick stock to use in your shrimp recipe. It just takes a few minutes of stove time to extract the yummy flavours. If you have shrimp heads, give those a quick rinse under cold water first. Then place the heads, shells, and tails in a saucepan with enough cold water to just cover the shells. Simmer the whole thing uncovered for 15 minutes or until the water takes on a light orange-ish stock color, then strain all the shells out. Use the stock in this recipe in place of water for an extra boost of flavour.
 
-**_*Tip 2_:** 
+**_*Tip 2_:**
 
 Though we've put yellow noodles into this Penang Chilli Prawn Noodle Recipe, you're free to use any type of noodle you like. I even use pasta sometimes! As for the fried shallot, you can fry a big portion at one go, then seal them in a jar for future use.
