@@ -13,7 +13,7 @@ project_fg_color: "#F1AB8D"
 ---
 ![](/uploads/thai-tom-yam.png)
 
-## Shop on [Shopee](https://shopee.com.my/Halal-Khimyan-Tom-Yam-Paste-orignal-Bangkok-taste-i.270483561.5837071200) | [Whatsapp](https://wa.link/8h7k1d) for wholesaling or retailing
+## Shop on [Shopee](https://shopee.com.my/Halal-Khimyan-Tom-Yam-Paste-orignal-Bangkok-taste-i.270483561.5837071200) | [Whatsapp](https://wa.link/g0m3jj) for wholesaling or retailing
 
 ***
 
