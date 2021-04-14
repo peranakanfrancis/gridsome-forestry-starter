@@ -14,7 +14,7 @@ project_fg_color: ''
 ---
 ![](/uploads/kapitan-curry-paste.png)
 
-### Shop at [Shopee](https://shopee.com.my/Halal-Khimyan-Kapitan-Chicken-Curry-Paste-i.270483561.5737078183)  or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-kapitan-curry-paste-i1922006083-s7739276403.html?spm=a2o4k.searchList.list.11.69ea6697Nec13V&search=1)  ｜ [WhatsApp](https://wa.link/aay6fn) for wholesaling or retailing
+## Shop at [Shopee](https://shopee.com.my/Halal-Khimyan-Kapitan-Chicken-Curry-Paste-i.270483561.5737078183)  or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-kapitan-curry-paste-i1922006083-s7739276403.html?spm=a2o4k.searchList.list.11.69ea6697Nec13V&search=1)  ｜ [WhatsApp](https://wa.link/aay6fn) for wholesaling or retailing
 
 ***
 
