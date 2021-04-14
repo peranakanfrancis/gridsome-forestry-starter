@@ -14,7 +14,7 @@ project_fg_color: ''
 ---
 ![](/uploads/curry-chicken-paste.png)
 
-### Shop at [Shopee](https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776)  or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-curry-chicken-paste-i1921990015-s7739212479.html?spm=a2o4k.pdp_revamp.recommendation_1.1.3e687855zsyDxd&mp=1&scm=1007.16389.126158.0&clickTrackInfo=fa55320c-b974-4308-bf56-0599402cdc21__1921990015__10003315__trigger2i__124572__1.0__0.9748926__0.0__0.0__0.0__0.9748926__0__null__null__null__null__null__null____10.0__0.377__0.0__0__6.23__103150,110008,110642__null__null__null__3650.16536__null)  ｜ [WhatsApp](https://wa.link/8h7k1d) for wholesaling or retailing
+## Shop at [Shopee](https://shopee.com.my/Halal-Penang-Famous-Khimyan-Chicken-Curry-Paste-200gm-i.270483561.3336606776)  or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-curry-chicken-paste-i1921990015-s7739212479.html?spm=a2o4k.pdp_revamp.recommendation_1.1.3e687855zsyDxd&mp=1&scm=1007.16389.126158.0&clickTrackInfo=fa55320c-b974-4308-bf56-0599402cdc21__1921990015__10003315__trigger2i__124572__1.0__0.9748926__0.0__0.0__0.0__0.9748926__0__null__null__null__null__null__null____10.0__0.377__0.0__0__6.23__103150,110008,110642__null__null__null__3650.16536__null)  ｜ [WhatsApp](https://wa.link/ua0gzx) for wholesaling or retailing
 
 ***
 
