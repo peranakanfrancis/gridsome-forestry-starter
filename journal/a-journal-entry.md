@@ -10,7 +10,7 @@ The first thing you'll notice about the mixed vegetable curry recipe is that it 
 
 When it comes to the carbs for this curry, I love serving it with either rice or yellow noodle. They absorb the flavor well and with the curry, make a truly satisfying meal. Maybe you'll have the perfect to enjoy your version of the mixed vegetable curry recipe.
 
-**P/s**: If you want something texture, feel free to to add the vegetarian meat substitute to the recipe. I suggest using vegetarian fish fillet - you can [deep-fry](../../../../curry-recipes/the-cooking-terms-tips/index.html "The Glossary of Cooking Terms") the fish fillet in a saucepan before adding it into the curry. It will add some extra crunch to the curry.
+**P/s**: If you want something texture, feel free to to add the vegetarian meat substitute to the recipe. I suggest using vegetarian fish fillet - you can deep-fry the fish fillet in a saucepan before adding it into the curry. It will add some extra crunch to the curry.
 
 ***
 
