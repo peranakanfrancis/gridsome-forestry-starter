@@ -5,16 +5,16 @@ date: '2019-01-03'
 categories:
 - seafood
 - 200g
-- RM5.00
+- RM5.50
 - shopee
 - lazada
 project_bg_color: ''
-project_fg_color: "#ED331B"
+project_fg_color: ''
 
 ---
 ![](/uploads/fish-prawn-curry-paste.png)
 
-### Shop Now on [Shopee](https://shopee.com.my/Halal-Khimyan-Seafood-Curry-Paste-i.270483561.5637087510) or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-fish-prawn-curry-paste-i1921872270-s7739144298.html?spm=a2o4k.searchlist.list.9.15481e09V6WQKG&search=1 "Buy Khimyan Fish & Prawn Curry Paste @ Lazada") | [WhatsApp](https://wa.link/8h7k1d) for wholesaling or retailing.
+## Shop Now on [Shopee](https://shopee.com.my/Halal-Khimyan-Seafood-Curry-Paste-i.270483561.5637087510) or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-fish-prawn-curry-paste-i1921872270-s7739144298.html?spm=a2o4k.searchlist.list.9.15481e09V6WQKG&search=1 "Buy Khimyan Fish & Prawn Curry Paste @ Lazada") | [WhatsApp](https://wa.link/64s1nn) for wholesaling or retailing.
 
 ***
 
@@ -43,8 +43,8 @@ project_fg_color: "#ED331B"
 
 ### What our customer says about it
 
-    "I've tried the fish curry, and it also easy to cook, I always thought that cook a bowl of curry need a lot of ingredients and works but now I'm wrong as with this convenient packet, I can cook whenever I wasn't as long as I get a fresh fish from supermarket and few more ingredient, then I can make my own curry to eat. The taste suitable for me which my mom also said my cooking skill is improved :). You may try it sometimes and amazed your friends and family.Pss: Who say guys can't cook good food at home? Try yourself."- Yap Chong, Kuala Lumpur
-    
-    
-    
-    "It is very very good. i can honestly say that it tastes authentic like you can find in a good hawker or restaurant in Penang. It has been difficult to even get good tasting food in Penang nowaday, yours just perfect to at least come as an option. keep it up."- Lim Yuh Hock, Kuala Lumpur
+> _I've tried the fish curry, and it also easy to cook, I always thought that cook a bowl of curry need a lot of ingredients and works but now I'm wrong as with this convenient packet, I can cook whenever I wasn't as long as I get a fresh fish from supermarket and few more ingredient, then I can make my own curry to eat. The taste suitable for me which my mom also said my cooking skill is improved :). You may try it sometimes and amazed your friends and family._
+>
+> _Pss: Who say guys can't cook good food at home? Try yourself."_- **Yap Chong, Kuala Lumpur**
+>
+> _"It is very very good. i can honestly say that it tastes authentic like you can find in a good hawker or restaurant in Penang. It has been difficult to even get good tasting food in Penang nowaday, yours just perfect to at least come as an option. keep it up."_ - **Lim Yuh Hock, Kuala Lumpur**
