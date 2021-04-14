@@ -16,7 +16,7 @@ project_fg_color: ''
 ---
 ![](/uploads/penang-hokkien-mee-paste.png)
 
-## Shop on  [Shopee](https://shopee.com.my/Halal-Khimyan-Brand-Penang-Hokkien-Mee(-Prawn-Mee)-Paste-i.270483561.4337065821 "Buy Khimyan Penang Hokkien Mee Paste") or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-penang-hokkien-mee-paste-i1921976386-s7739298182.html?spm=a2o4k.searchList.list.6.69ea6697NSS3U3&search=1 "Buy Khimyan Penang Hokkien Mee @Lazada") | [WhatsApp](https://wa.link/8h7k1d) for wholesaling and retailing
+## Shop on  [Shopee](https://shopee.com.my/Halal-Khimyan-Brand-Penang-Hokkien-Mee(-Prawn-Mee)-Paste-i.270483561.4337065821 "Buy Khimyan Penang Hokkien Mee Paste") or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-penang-hokkien-mee-paste-i1921976386-s7739298182.html?spm=a2o4k.searchList.list.6.69ea6697NSS3U3&search=1 "Buy Khimyan Penang Hokkien Mee @Lazada") | [WhatsApp](https://wa.link/7fivu0) for wholesaling and retailing
 
 ***
 
