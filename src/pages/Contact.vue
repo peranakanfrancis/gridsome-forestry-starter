@@ -4,7 +4,7 @@
 
       <div class="contact-header">
         <h1 class="contact-title">Say hi!</h1>
-        <p>Whether you have questions regarding our products, wholesale or retailer, suggestion or recommendation, we'd love to hear from you. We are here to answer your questions, please allow us to assist you. If you prefer quick response, you can always chat with us on <a href="https://wa.link/8h7k1d" target="_blank">WhatsApp</a> or send us a message.</p>
+        <p>Whether you have questions regarding our products, for wholesale, retail, catering packing, suggestion or recommendation, we'd love to hear from you. We are here to answer your questions, please allow us to assist you. If you prefer quick response, you can always chat with us on <a href="https://wa.link/844shq" target="_blank">WhatsApp</a> or send us a message.</p>
       </div>
 
       <form class="contact-form" action="https://formspree.io/f/xyylyvbr" method="POST" name="contact">
