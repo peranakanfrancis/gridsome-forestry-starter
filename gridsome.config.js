@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Khimyan",
+  siteUrl: `https://www.khimyancurry.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "Quick & Easy Curry",
+  siteDescription: "Penang home based curry paste manufacturer",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
