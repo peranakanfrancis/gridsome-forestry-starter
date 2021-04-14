@@ -3,7 +3,7 @@ date: '2019-05-16'
 year: 2019
 title: Buy Penang Curry Mee Paste
 category: Identity
-thumbnail: "/uploads/penang-prawn-mee.jpg"
+thumbnail: "/uploads/cropped-top-5-curry-mee-that-you-have-to-try-in-penang.jpg"
 categories:
 - noodle
 - 150g
@@ -14,9 +14,9 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/penang-hokkien-mee-paste.png)
+![](/uploads/penang-curry-mee-paste.png)
 
-## Shop on  [Shopee](https://shopee.com.my/Halal-Khimyan-Brand-Penang-Hokkien-Mee(-Prawn-Mee)-Paste-i.270483561.4337065821 "Buy Khimyan Penang Hokkien Mee Paste") or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-penang-hokkien-mee-paste-i1921976386-s7739298182.html?spm=a2o4k.searchList.list.6.69ea6697NSS3U3&search=1 "Buy Khimyan Penang Hokkien Mee @Lazada") | [WhatsApp](https://wa.link/8h7k1d) for wholesaling and retailing
+## Shop on  [Shopee](https://shopee.com.my/Halal-Khimyan-Penang-Local-Curry-Mee-Paste-i.270483561.5437081862) or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-penang-curry-mee-paste-i1921974270-s7739228667.html?spm=a2o4k.searchList.list.3.69ea6697qwxSRW&search=1) | [WhatsApp](https://wa.link/8h7k1d) for wholesaling and retailing
 
 ***
 
