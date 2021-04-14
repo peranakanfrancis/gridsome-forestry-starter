@@ -1,32 +1,36 @@
 ---
-thumbnail: "/uploads/sambal-kangkung2.jpg"
+thumbnail: "/uploads/mixed-vegatable-curry-2i.jpg"
 title: Buy Vegetarian Curry Paste
 date: '2019-01-03'
 categories:
 - seafood
-- 120g
-- RM5.00
-- shopee
-- lazada
+- 150g
+- RM6.00
+- wholesale
 project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/sambal-tumis-sauce.png)
+![](/uploads/vegetarian-curry-paste.png)
 
-## Shop Now on [Shopee](https://shopee.com.my/Halal-Khimyan-Sambal-Sauce-for-Vegetable-i.270483561.5137088891) or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-sambal-sauce-i1921954760-s7739276767.html?spm=a2o4k.searchList.list.15.69ea66978D4KlW&search=1) | [WhatsApp](https://wa.link/fn100j) for wholesaling or retailing.
+## [WhatsApp](https://wa.link/aldtr5) for wholesaling or retailing.
 
 ***
 
 ### **Preparation:**
 
-* 500g kangkung (a.k.a water spinach)
-* 400g medium sized prawn (shelled and deveined)
-* 1 tablespoon of cooking oil
-* 1 packet Khimyan Sambal Tumis Sauce
+* 3 colors bell pepper (sliced)
+* 1 eggplant (diced)
+* 10 okra (sliced)
+* 100g long bean (sliced)
+* mushroom or champignon (diced)
+* 400ml water
+* 80ml coconut milk or fresh milk
+* 1 packet Khimyan Vegetarian Curry Paste
 
-### **Direction:**
+**Direction:**
 
-1. In a deep pot, heat up 1 tablespoon of cooking oil, then pour 1 packet Khimyan Sambal Tumis Sauce. _Sauté_ for 1 minute or until fragrant.
-2. Add in kangkung and prawn, _pan fry_ for 5 minutes or until both are cooked.
-3. Serve hot with steamed rice.
+1. Bring 400ml water to boil, then pour 1 packet of Khimyan Vegetarian Curry Paste and stir for 1 minute.
+2. Add the bell pepper, eggplant, long bean, lokra and mushroom. Cover the lid and lower the heat to medium, allow the curry to simmer for about 10 minutes or until all the ingredients are cooked.
+3. You may add 80ml coconut milk or fresh milk, as you prefer, and let it simmer for another 2 minutes.
+4. Serve hot and enjoy it with rice, bread or yellow noodle.
