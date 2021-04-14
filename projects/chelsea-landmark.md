@@ -9,6 +9,7 @@ categories:
 - 150g
 - RM5.90
 - shopee
+- lazada
 project_bg_color: ''
 project_fg_color: ''
 
