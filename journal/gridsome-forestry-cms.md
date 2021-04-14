@@ -1,6 +1,6 @@
 ---
 date: 2019-06-07
-title: Penang hokkien mee recipe
+title: Penang Hokkien Mee recipe
 author: Peter Tan
 excerpt: pre-cook the shrimp heads in a pot of water, then add the paste into the
   broth for a lip-smacking, taste-bud satisfying bowl of Penang Hokkien Mee.
