@@ -16,7 +16,7 @@ project_fg_color: ''
 ---
 ![](/uploads/penang-curry-mee-paste.png)
 
-## Shop on  [Shopee](https://shopee.com.my/Halal-Khimyan-Penang-Local-Curry-Mee-Paste-i.270483561.5437081862) or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-penang-curry-mee-paste-i1921974270-s7739228667.html?spm=a2o4k.searchList.list.3.69ea6697qwxSRW&search=1) | [WhatsApp](https://wa.link/8h7k1d) for wholesaling and retailing
+## Shop on  [Shopee](https://shopee.com.my/Halal-Khimyan-Penang-Local-Curry-Mee-Paste-i.270483561.5437081862) or [Lazada](https://www.lazada.com.my/products/ready-stock-khimyan-curry-brand-instant-paste-halal-penang-curry-mee-paste-i1921974270-s7739228667.html?spm=a2o4k.searchList.list.3.69ea6697qwxSRW&search=1) | [WhatsApp](https://wa.link/qs3l7h) for wholesaling and retailing
 
 ***
 
@@ -49,6 +49,6 @@ project_fg_color: ''
 3. Pour in the hot soup and garnish with a handful of the mint leaves on top.
 4. Serve hot!
 
-**Suggestion:** 
+**Suggestion:**
 
 _Though we've put yellow noodles into this Penang Curry Noodle Recipe, you're free to use any type of noodle you like._
