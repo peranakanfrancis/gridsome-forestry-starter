@@ -12,7 +12,7 @@ And now, we offer you the [Khimyan Penang Hokkien Mee Paste](https://khimyancurr
 
 Our secret? No secret, really: it's all in the ingredients. We use real shrimp and top quality raw ingredients in our curry pastes - you can't get that great taste with the artificial stuff. And that's our "secret" when it comes to standing out from the rest. Some of the members in our foodie community like to pre-cook the shrimp heads in a pot of water, then add the paste into the broth. That's a really smart thing to do, if you have the time for it. For those who are in need of some fast Penang Hokkien Mee action, our paste is the only ingredient you'll need to make the soup. When I am craving for a spicier alternative to instant noodles, I'll just make a soup base using our paste, then add plain noodles to it - very little time needed and simply delicious.
 
-![](/uploads/penang-chilli-prawn-noodle.jpg)
+![](/uploads/penang-prawn-mee.jpg)
 
 ***
 
