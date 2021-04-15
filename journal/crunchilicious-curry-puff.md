@@ -2,32 +2,61 @@
 date: 2021-04-11
 title: Crunchilicious Curry Puff
 author: Peter Tan
-excerpt: This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one
-  that you'll want to use over and over again.
+excerpt: When you sink your teeth into a curry puff and the crispy pastry breaks open,
+  your taste buds will be greeted by a spicy zing as the curry slowly rolls around
+  in your mouth.
 
 ---
-This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one that you'll want to use over and over again. Tom Yum soup is a one of the most popular dishes in Southeast Asia. Due to the combination of herbs and spices we've used in our paste, our Seafood Tom Yum soup is less spicy and a tad bit more sour.
+The Portuguese had a hand in creating the curry puff – they brought them over to Malaysia the early 1500s. These were called _empanadas_, and were basically stuffed pastries; the dough for the pastry was folded neatly around the filling, and the filling usually consisted of ground, minced or diced meat and vegetables. Empanadas are still being enjoyed today in many Latin American and South European countries.
 
-I'm gonna share with you the alternative and easier way to enjoy Tom Yum Soup. The first more common option is to cook it with noodles, and a variety of other ingredients like chicken, cuttlefish, mushroom, fish fillets and shelled seafood, just to name a few. Here in Penang, hawkers that sell Tom Yum noodle soup normally would have all these ingredients ready on flat trays or plates and when you step up to them and tell them you want a Tom Yum Noodle Soup, they'll ask you which ingredients you want to have in your soup. You make the selection and voila, they'll cook all those ingredients on the spot and add them to the noodle soup for you.
+And what do food-loving people do when they are introduced to a new food? They create their own version, using local ingredients for that extra touch of freshness and familiarity. And thus was born the delicious snack known simply as the curry puff.
 
-The second option is really more for people like me, who have very limited time to make a meal what more to eat one. All I do is replace the flavouring for my instant cup noodles with [Khimyan Thai Tom Yam](https://khimyancurry.com/projects/3d-graff/) and I've got a cup of instant noodles with a stronger and spicier taste. Throw in a few sausage slices, some slices of ham and an egg on top of the tom yum soup and you've got yourself a meal that took mere minutes to prepare.
+As you’ve probably guessed by now, the contents inside a curry puff is .... Curry. You might be wondering how a puff pastry is able to hold all that curry in without getting soggy – the trick here is that the curry inside the curry puff has been thickened, so much so that it almost becomes a sort of savoury curry paste. When you sink your teeth into a curry puff and the crispy pastry breaks open, your taste buds will be greeted by a spicy zing as the curry slowly rolls around in your mouth.
 
-![](/uploads/tom-yum-seafood-soup.jpg)
+Traditionally, the content inside the curry puff has been [Chicken Curry](https://khimyancurry.com/journal/chicken-curry/), although Rendang Curry comes a close second. However, innovative entrepreneurs and cooks have tried their hands at alternative fillings as well, with marked favorites being Kapitan Curry.
+
+Curry puffs are a popular snack food in Malaysia and Singapore alike. You can find them being sold in bakeries, pastry shops, cafes, coffee shops and also by many a street vendor. They are the perfect accompaniment to a nice cup of tea, which is probably one of the reasons why Malaysians and Singaporeans seem to enjoy two tea sessions a day!
+
+![](/uploads/1499637142.jpg)
 
 ***
 
 ### **Preparation:**
 
-* 600g shrimp (head-on and shell-on, but _chop_ the eyes part off (_deveined_)
-* Some mushroom, any kind that you prefer (_sliced_)
-* 1 stalk lemongrass (_pounded_)
-* 1 onion (_sliced_)
-* 2 tomato (_diced_)
-* 400 ml water
-* 1 packet [Khimyan Thai Tom Yam](https://khimyancurry.com/projects/3d-graff/)
+_For the Filling_
+
+* 1 onion (_diced_)
+* 1 potato (_peeled_, _diced_ and _boiled_ for about 5 minutes)
+* 2 chicken breast (_diced_)
+* 1/2 packet [Khimyan Curry Chicken Paste](https://khimyancurry.com/projects/sunk/)
+
+_For the Water Dough:_
+
+* 400 gm all-purpose flour
+* 2 tablespoons rice flour
+* 80 gm butter (no margarine)
+* 240 ml cold water
+* 1/2 teaspoon salt to taste
+
+_For the Oil Dough:_
+
+* 200 gm all-purpose flour
+* 1 tablespoons rice flour
+* 100 gm butter
+* 4 tablespoons oil for _frying_
+
+  ***
 
 ### **Direction:**
 
-1. Bring 400ml water to boil, pour 1 packet [Khimyan Thai Tom Yam](https://khimyancurry.com/projects/3d-graff/) and stir for 1 minute.
-2. Add in the shrimp, mushroom, onion, lemongrass and tomato. Simmer for 10 minutes in medium heat.
-3. Serve hot with steamed rice or noodle.
+1. First you’ve got to make the filling. Heat some oil in a wok, then pour in 1/2 packet [Khimyan Curry Chicken Paste](https://khimyancurry.com/projects/sunk/) and the onion. _Sauté_ until fragrant. Add the chicken, potato and _pan-fry_ for 5 minutes, or until the chicken is thoroughly cooked. Mix thoroughly, then set aside to cool.
+2. You can prepare the water and oil dough in the normal way of preparing dough, but keep them separate during the kneading process.
+3. Sift the all-purpose flour and rice flour together, then combine well with butter, water and salt. Knead the mixture into the separate dough. Divide the Water Dough into 5 equal portions and wrap them with Saran Wrap before putting them into the fridge for 15-20 minutes. Do the same with the Oil Dough.
+4. Use a portion of Water Dough to wrap a portion of the Oil Dough, and then form into a ball. Flatten the ball with your palm then use a rolling pin to flatten the now oblong-shaped ball of dough. Roll this combined Dough into an oblong shape again.
+5. Using a sharp knife, cut the Combine Dough Ball into 5 pieces, and then flatten and roll each of the 5 pieces into a flat, pancake shape. Put the filling on top of the dough, then fold the dough to make a half-circle. Close the pastry by crimping the edges.
+6. Deep-fry each of the puffs in hot oil until golden.
+7. Serve hot and enjoy the curry puff!
+
+**_Suggestion:_**
+
+_The dough might stick together if they come into contact with each other. To avoid this, sprinkle some flour onto the holding plate or tray and keep the dough balls a good distance from each other._
