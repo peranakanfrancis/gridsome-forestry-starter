@@ -1,5 +1,5 @@
 ---
-date: 2019-06-07
+date: 2021-04-15
 title: Penang Hokkien Mee
 author: Peter Tan
 excerpt: pre-cook the shrimp heads in a pot of water, then add the paste into the
