@@ -3,7 +3,7 @@ date: '2019-05-16'
 year: 2019
 title: Buy Penang Hokkien Mee Paste
 category: Identity
-thumbnail: "/uploads/penang-prawn-mee.jpg"
+thumbnail: "/uploads/penang-chilli-prawn-noodle.jpg"
 categories:
 - noodle
 - 150g
@@ -41,6 +41,8 @@ project_fg_color: ''
 * kangkung or a.k.a water spinach
 * 1300ml water
 * 1 packet Khimyan's Paste for Penang Hokkien Mee Paste
+
+  ***
 
 ### **Direction:**
 
