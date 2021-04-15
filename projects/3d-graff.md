@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/tom-yum-seafood-soup.jpg"
-title: Buy Khimyan Thai Tom Yam
+title: Buy Khimyan Thai Tom Yam Sauce
 date: '2019-01-04'
 categories:
 - seafood
@@ -8,7 +8,7 @@ categories:
 - RM5.00
 - shopee
 project_bg_color: ''
-project_fg_color: "#F1AB8D"
+project_fg_color: ''
 
 ---
 ![](/uploads/thai-tom-yam.png)
