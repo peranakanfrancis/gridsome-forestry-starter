@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/1499637142-1.jpg"
+thumbnail: "/uploads/cicken.jpg"
 title: Buy Khimyan Curry Chicken Paste
 date: '2019-02-06'
 categories:
