@@ -1,33 +1,48 @@
 ---
 date: 2021-04-11
-title: Chicken curry
+title: Chicken Curry
 author: Peter Tan
-excerpt: This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one
-  that you'll want to use over and over again.
+excerpt: 30 minutes is all you need before you're enjoying a hearty and satisfying
+  chicken curry.
 
 ---
-This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one that you'll want to use over and over again. Tom Yum soup is a one of the most popular dishes in Southeast Asia. Due to the combination of herbs and spices we've used in our paste, our Seafood Tom Yum soup is less spicy and a tad bit more sour.
+In today's fast-paced world, a lot of us just don't have a lot of time to spend in the kitchen, especially on hectic weekdays. But you know what? Maybe we don't have to. Maybe we can make great chicken curry a lot faster than my mom used to make. [Khimyan Curry Chicken Paste](https://khimyancurry.com/projects/sunk/) cuts down several hours' of work down to just 30 minutes. Yes. 30 minutes is all you need before you're enjoying a hearty and satisfying chicken curry.
 
-I'm gonna share with you the alternative and easier way to enjoy Tom Yum Soup. The first more common option is to cook it with noodles, and a variety of other ingredients like chicken, cuttlefish, mushroom, fish fillets and shelled seafood, just to name a few. Here in Penang, hawkers that sell Tom Yum noodle soup normally would have all these ingredients ready on flat trays or plates and when you step up to them and tell them you want a Tom Yum Noodle Soup, they'll ask you which ingredients you want to have in your soup. You make the selection and voila, they'll cook all those ingredients on the spot and add them to the noodle soup for you.
+How does this chicken curry taste? Well, according to my native Indian friends, our chicken curry recipe has a strong Southern Indian flavour to it, with some subtle mixture of Malay and Chinese influence in the ingredients. The spicy taste of this fantastic chicken curry is something you're not going to find elsewhere - it's an authentic Malaysian curry. 
 
-The second option is really more for people like me, who have very limited time to make a meal what more to eat one. All I do is replace the flavouring for my instant cup noodles with [Khimyan Thai Tom Yam](https://khimyancurry.com/projects/3d-graff/) and I've got a cup of instant noodles with a stronger and spicier taste. Throw in a few sausage slices, some slices of ham and an egg on top of the tom yum soup and you've got yourself a meal that took mere minutes to prepare.
+For me, the interesting part of this curry chicken recipe is that, even though you're using our curry paste, you can play around with the recipe so that it suits your taste or craving. If you like it Indian-style, just follow the recipe provided. If you're after a milder Chinese curry style, you can add a bit more coconut milk; it will give the curry a sweet taste, as well as cutting down on the spiciness a tad. You can call it _Coconut Chicken Curry._ If you like the curry thick and flavorful, you can reduce the quantity of water used to make the curry more concentrated. If you're the health-conscious type, use low-fat milk instead of coconut milk. It's your chicken curry and it's all about giving you options so you can make it suit your taste.
 
-![](/uploads/tom-yum-seafood-soup.jpg)
+When it comes to enjoying chicken curry, you can do it in a variety of ways. The Chinese love to eat it with rice and noodles. I like to use it as a spicy pasta sauce (you can try that!) The Indians love to eat it with Roti Canai, a savoury flatbread - this is a very popular way to eat chicken curry in Malaysia and Singapore. There is also a Malay snack known as a 'curry puff', a very popular afternoon snack in both Malaysian and Singapore. It's a type of pastry, very similar to the Empanada eaten in Latin America in the sense that it's stuffed, and in the curry puff's case, stuffed with a thick chicken curry. When you bite into the crispy pastry, the spicy chicken curry inside slowly drips into your mouth....are you drooling yet?
+
+![](/uploads/1499637142-1.jpg)
 
 ***
 
 ### **Preparation:**
 
-* 600g shrimp (head-on and shell-on, but _chop_ the eyes part off (_deveined_)
-* Some mushroom, any kind that you prefer (_sliced_)
-* 1 stalk lemongrass (_pounded_)
-* 1 onion (_sliced_)
-* 2 tomato (_diced_)
-* 400 ml water
-* 1 packet [Khimyan Thai Tom Yam](https://khimyancurry.com/projects/3d-graff/)
+* 600g chicken (diced)
+* 2 potato (peeled and diced)
+* 1 tablespoon cooking oil
+* 2 tablespoon water
+* 300 ml water
+* 80 ml coconut milk or use fresh milk
+* 1 packet [Khimyan Curry Chicken Paste](https://khimyancurry.com/projects/sunk/)
+
+  ***
 
 ### **Direction:**
 
-1. Bring 400ml water to boil, pour 1 packet [Khimyan Thai Tom Yam](https://khimyancurry.com/projects/3d-graff/) and stir for 1 minute.
-2. Add in the shrimp, mushroom, onion, lemongrass and tomato. Simmer for 10 minutes in medium heat.
-3. Serve hot with steamed rice or noodle.
+1. Heat 1 tablespoon of the cooking oil in a pot. Pour 1 packet [Khimyan Curry Chicken Paste](https://khimyancurry.com/projects/sunk/) into the pot followed by 2 tablespoons of water then pan-fry it for 1 minute.
+2. Add the chicken and potato, then pan-fry for 2 minutes. Pour 300ml water into the pot and bring to boil. Lower the heat down to a simmer, then keep it covered for 15 minutes.
+3. After that, you may add 80ml of coconut milk or fresh milk, whichever you prefer. Let it simmer for another 3 minutes or until the chicken is tender.
+4. Serve hot and enjoy it with rice or bread.
+
+***
+
+### What our customers say about it
+
+> _My kids and I love your chicken curry recipe and curry paste so much! It taste like Indian curry with a little chinese, not too hot and every time I cooked chicken curry, my kids can't resist to have another bowl. There is even my home tutor, after she tried one time during home tution, her whole family now is your big fan! Good job!"_- **Tan Gaik Ling, Penang**
+
+> _"I love the curry you guys make I'm going to try getting different ones, the only one I have tried is the chicken curry one. I have tried many curry pastes from different retailers. My friend ordered this and it had to be the best tasting chicken curry I had ever had. It was awesome, I'm waiting for my order to make my own at home!"_- **Bokhari Hassan, United States**
+
+> _"I have received my curry and I got to admit the curry paste is different has a strong but not bland taste that I have already recommended to friends and family."_- **Jason Cruzado, United States**
