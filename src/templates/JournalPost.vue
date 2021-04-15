@@ -5,6 +5,7 @@
 
         <div class="journal-header">
           <h1 v-html="$page.post.title" class="journal-title" />
+                <div class="addthis_inline_share_toolbox_788v"></div>
           <div class="journal-meta">
             <div class="journal-author">
               <span class="label">Author</span>
@@ -18,10 +19,6 @@
               <span class="label">Time</span>
               <span>{{ $page.post.timeToRead }} min read</span>
             </div>
-            
-                <!-- Go to www.addthis.com/dashboard to customize your tools -->
-                <div class="addthis_inline_share_toolbox_788v"></div>
-           
           </div>          
         </div>
 
