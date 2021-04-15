@@ -2,34 +2,34 @@
 date: 2021-04-14
 title: Sambal Kangkung
 author: Peter Tan
-excerpt: 'We''ve got a good mix of vegetables: pepper/capsicum, eggplant, long bean,
-  okra and mushroom.'
+excerpt: Kangkung has the great taste and texture to make it the perfect vegetable
+  to be cooked with sambal. It is a very common dish that is served in most Malaysian
+  families.
 
 ---
-The first thing you'll notice about the mixed vegetable curry recipe is that it offers a lot of bright colours, and that's because the vegetables involved are so colourful! We've got a good mix of vegetables: pepper/capsicum, eggplant, long bean, okra and mushroom. This is a great recipe for a vegetarian curry lover, as the [Khimyan Vegetarian Curry Paste](https://khimyancurry.com/projects/buy-vegetarian-curry-paste/) is made with vegetarians in mind - there is no garlic and onion in the paste.
+Sambal Kangkung is a popular and beloved traditional Malaysian sambal recipe that's stood the test of time. You find Malaysian eating at any occasion and you can find it at any restaurant serving Malaysian food.
 
-When it comes to the carbs for this curry, I love serving it with either rice or yellow noodle. They absorb the flavour well and with the curry, make a truly satisfying meal. Maybe you'll have the perfect to enjoy your version of the mixed vegetable curry recipe.
+_What is sambal?_
 
-**P/s**: If you want something texture, feel free to to add the vegetarian meat substitute to the recipe. I suggest using vegetarian fish fillet - you can deep-fry the fish fillet in a saucepan before adding it into the curry. It will add some extra crunch to the curry.
+Sambal is a thick spicy sauce which has belacan in it; belancan is toasted shrimp paste. The other main ingredients in sambal include turmeric, shallot, chilli, onion, calamansi lime (known locally as limau kasturi) and salt and sugar. It is a unique sauce that plays an integral role in many Malay dishes. Sambal sauce can be used to cook vegetables, poultry and seafood. Some cooks love to to add it to fried noodles or fried rice. By using the thick spicy paste, they can really imbue the noodles or rice with a strong shrimpy flavour, not to mention a fiery kick that will be sure to whet your appetite. Sambal recipes are often times a well-kept family secret (just like mine).
 
-![](/uploads/mixed-vegatable-curry-2i.jpg)
+Kangkung (also known as water spinach) has the great taste and texture to make it the perfect vegetable to be cooked with sambal. It is a very common dish that is served in most Malaysian families. [Khimyan Sambal Tumis Sauce](https://khimyancurry.com/projects/buy-sambal-tumis-sauce/) is slightly milder than the usual Malaysian sambal sauce, so if you enjoy your meals the hot and spicy way, you can add 2 or 3 chilies to this recipe.
+
+![](/uploads/kangkung-belacan-featured-image.jpeg)
 
 ***
 
 ### **Preparation:**
 
-* 3 colors bell pepper (sliced)
-* 1 eggplant (diced)
-* 10 okra (sliced)
-* 100g long bean (sliced)
-* mushroom or champignon (diced)
-* 400ml water
-* 80ml coconut milk or fresh milk
-* 1 packet [Khimyan Vegetarian Curry Paste](https://khimyancurry.com/projects/buy-vegetarian-curry-paste/)
+* 500g kangkung (a.k.a water spinach)
+* 400g medium sized prawn (shelled and deveined)
+* 1 tablespoon of cooking oil
+* 1 packet [Khimyan Sambal Tumis Sauce](https://khimyancurry.com/projects/buy-sambal-tumis-sauce/)
 
-**Direction:**
+  ***
 
-1. Bring 400ml water to boil, then pour 1 packet of [Khimyan Vegetarian Curry Paste](https://khimyancurry.com/projects/buy-vegetarian-curry-paste/) and stir for 1 minute.
-2. Add the bell pepper, eggplant, long bean, okra and mushroom. Cover the lid and lower the heat to medium, allow the curry to simmer for about 10 minutes or until all the ingredients are cooked.
-3. You may add 80ml coconut milk or fresh milk, as you prefer, and let it simmer for another 2 minutes.
-4. Serve hot and enjoy it with rice, bread or yellow noodle.
+### **Direction:**
+
+1. In a deep pot, heat up 1 tablespoon of cooking oil, then pour 1 packet [Khimyan Sambal Tumis Sauce](https://khimyancurry.com/projects/buy-sambal-tumis-sauce/). _Sauté_ for 1 minute or until fragrant.
+2. Add in kangkung and prawn, _pan fry_ for 5 minutes or until both are cooked.
+3. Serve hot with steamed rice.
