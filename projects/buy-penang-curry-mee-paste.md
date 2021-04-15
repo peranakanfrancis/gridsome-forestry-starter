@@ -3,7 +3,7 @@ date: '2019-05-16'
 year: 2019
 title: Buy Penang Curry Mee Paste
 category: Identity
-thumbnail: "/uploads/cropped-top-5-curry-mee-that-you-have-to-try-in-penang.jpg"
+thumbnail: "/uploads/penang-curry-noodle-i.jpg"
 categories:
 - noodle
 - 150g
@@ -41,6 +41,8 @@ project_fg_color: ''
 * 300ml of coconut milk or fresh milk
 * 1200ml water
 * 1 packet Khimyan Penang Curry Mee Paste
+
+  ***
 
 ### **Direction:**
 
