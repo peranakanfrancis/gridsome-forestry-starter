@@ -25,6 +25,10 @@
               <div v-html="$page.post.date"/>
             </div>
           </div>
+          
+                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                <div class="addthis_inline_share_toolbox_788v"></div>
+            
         </div>
 
         <div v-html="$page.post.content" class="content" />
