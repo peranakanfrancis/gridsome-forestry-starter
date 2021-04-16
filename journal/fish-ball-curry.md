@@ -1,9 +1,9 @@
 ---
-date: 2021-04-11
+date: 2021-04-17
 title: Fish Ball Curry
 author: Peter Tan
-excerpt: 30 minutes is all you need before you're enjoying a hearty and satisfying
-  chicken curry.
+excerpt: Heat up the Khimyan Fish & Prawn Curry Paste then just add these balls into
+  curry soup , and you're ready to have a good meal in just minutes.
 
 ---
 Fish Ball Curry is a very famous street food in most Asian cities, with different countries having regional variations in the taste of the curry soup. This fish ball curry recipe that we've featured here actually has a Malaysian curry flavour to it. This fish ball curry is much spicier, starchier and more flavoursome in taste compared to its Mainland Chinese counterpart.
