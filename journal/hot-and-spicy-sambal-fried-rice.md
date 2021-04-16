@@ -6,28 +6,31 @@ excerpt: This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be o
   that you'll want to use over and over again.
 
 ---
-This Malaysian style Hot and Sour Seafood Tom Yum Soup recipe will be one that you'll want to use over and over again. Tom Yum soup is a one of the most popular dishes in Southeast Asia. Due to the combination of herbs and spices we've used in our paste, our Seafood Tom Yum soup is less spicy and a tad bit more sour.
+What makes sambal fried rice recipe so unique and great? It mixes ingredients and flavors from Malay, Chinese, Indian, and Nyonya cuisine, creating a truly Malaysian dish that's sure to be loved by everyone who tries it. In fact, fried rice can be considered a fast food in Asia - it's very easy to prepare and cook, and, because it uses all natural ingredients, it's healthy for you as well!
 
-I'm gonna share with you the alternative and easier way to enjoy Tom Yum Soup. The first more common option is to cook it with noodles, and a variety of other ingredients like chicken, cuttlefish, mushroom, fish fillets and shelled seafood, just to name a few. Here in Penang, hawkers that sell Tom Yum noodle soup normally would have all these ingredients ready on flat trays or plates and when you step up to them and tell them you want a Tom Yum Noodle Soup, they'll ask you which ingredients you want to have in your soup. You make the selection and voila, they'll cook all those ingredients on the spot and add them to the noodle soup for you.
+When it comes to making good sambal fried rice, make sure you use leftover rice that's been left in the fridge overnight, or at least rice that's been allowed to cool for at least a few hours. You may ask why is this so important? My advise is that the rice becomes firm because cooling it will get rid of excess moisture, which makes it much, much easier to separate and cook when you're making fried rice. If you use freshly-made rice, right from the rice-cooker, you'll get "mushy fried rice" instead.
 
-The second option is really more for people like me, who have very limited time to make a meal what more to eat one. All I do is replace the flavouring for my instant cup noodles with [Khimyan Thai Tom Yam](https://khimyancurry.com/projects/3d-graff/) and I've got a cup of instant noodles with a stronger and spicier taste. Throw in a few sausage slices, some slices of ham and an egg on top of the tom yum soup and you've got yourself a meal that took mere minutes to prepare.
+[Khimyan Sambal Tumis Sauce](https://khimyancurry.com/projects/buy-sambal-tumis-sauce/) is made according to an old nyonya recipe, and it's one that you won't be able to resist. As many of you may agree, fried rice is not haute-cuisine. In fact, it's a dish that's supposed to be made from leftovers. So feel free to use any leftover ingredients in your fridge: shrimp, chicken, seafood, vegetables and so on. The only suggestion is that they are "dry" - avoid using "wet" ingredients like leftover sauce. The fried rice should always be light and fluffy, never "wet and mushy". Enjoy!
 
-![](/uploads/tom-yum-seafood-soup.jpg)
+![](/uploads/fried-rice.jpg)
 
 ***
 
 ### **Preparation:**
 
-* 600g shrimp (head-on and shell-on, but _chop_ the eyes part off (_deveined_)
-* Some mushroom, any kind that you prefer (_sliced_)
-* 1 stalk lemongrass (_pounded_)
-* 1 onion (_sliced_)
-* 2 tomato (_diced_)
-* 400 ml water
-* 1 packet [Khimyan Thai Tom Yam](https://khimyancurry.com/projects/3d-graff/)
+* 4 cups cooked rice (leftover or sufficiently cold)
+* squid
+* shrimp
+* chicken sausage
+* 2 tablespoon of cooking oil
+* 4 egg omelette
+* 1 packet [Khimyan Sambal Tumis Sauce](https://khimyancurry.com/projects/buy-sambal-tumis-sauce/)
+
+  ***
 
 ### **Direction:**
 
-1. Bring 400ml water to boil, pour 1 packet [Khimyan Thai Tom Yam](https://khimyancurry.com/projects/3d-graff/) and stir for 1 minute.
-2. Add in the shrimp, mushroom, onion, lemongrass and tomato. Simmer for 10 minutes in medium heat.
-3. Serve hot with steamed rice or noodle.
+1. Heat 2 tablespoons of cooking oil in a saucepan. Add the [Khimyan Sambal Tumis Sauce](https://khimyancurry.com/projects/buy-sambal-tumis-sauce/) and sauté under medium heat until fragrant.
+2. Add the chicken sausage, squid, shrimp, followed by 4 cups of the rice. Pan-fry on high heat for 5 minutes.
+3. Add the egg into the rice, mix the ingredients well, pan-fry under medium heat for another 2 minutes.
+4. Serve hot!
