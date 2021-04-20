@@ -1,33 +1,34 @@
 ---
-date: 2021-04-20
+date: 2021-04-21
 title: Tom Yum Steamed Fish
 author: Peter Tan
-excerpt: This Tom Yum fried noodle recipe makes for a quick, easy and totally satisfying
-  meal.
+excerpt: 'A big thank you goes to my Aunt who came up with this mouth-watering steamed
+  fish with tom yum and who is kind enough to share it with family and friends (and
+  of course, me!). '
 
 ---
-This Tom Yum fried noodle recipe makes for a quick, easy and totally satisfying meal. Fried noodle is a popular and very common dish in Asia, with each country in the region having so many variants of it. A seafood style fried noodle dish might feature thin, rice vermicelli with calamari and shrimp while a spicier fried noodle dish might feature see-through "glass noodle" with a large dose of chili and a hint of sourness to it - there are as many variations as there are noodles and ingredients!
+A big thank you goes to my Aunt who came up with this mouth-watering steamed fish with tom yum and who is kind enough to share it with family and friends (and of course, me!). Her story goes like this: She was preparing dinner in the kitchen one day when she discovered some leftover [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) in the refrigerator. She also had a big white fish in the refrigerator, so naturally, her quick mind though: why not combine the two? And that's how she came up with the idea to steam the fish with the Tom Yum paste. She had never cooked such a dish before, but due to her cooking skills, she came up with a recipe that does all the ingredients proud.
 
-Our recipe is a fusion between Malaysian and Thai cuisine - The hot and sour [Khimyan Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) is used to cook and flavored with Malaysian-style fried noodles. The taste is a balance of hot and sour flavors that will leave you wanting more! Like all our other curry recipes, you're free to change or add different ingredients as you like.
+And as you'd probably expect, the dish came out well. Very well, in fact. The spicy, sour taste and aroma on the fresh white steam fish made drove her hungry family wild as soon as it was placed on the table. Let's just say that there were no leftovers! My Aunt then proceeded to share her recipe with her sisters, friends and neighbours. They were very excited and enthusiastic about the recipe because it was easy and quick. In fact, it took less than 25 minutes to prepare!
 
-As they say in French: _Bon Appetit!_
-
-![](/uploads/fried-noodle.jpg)
+And when it came to the preparation, all you needed to do was make sure you descale and clean the fish properly, then you spread some [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) on the fish, garnish it with some vegetables and then proceed to steam it. And just like that, you've got a delicious and incredibly taste steam fish ready for you in just a few minutes. enjoy this dish with friends and family - they'll thank you for it!
 
 ***
 
-### **Preparation:**
+### This Spicy, Sour, and Tangy Tom Yum Steamed Fish Recipe serves 4
 
-* 600g noodle or rice vermicelli or pasta (blanch)
-* 100g shrimp (shelled and deveined)
-* 100g squid (cleaned)
-* 4 egg omelette (chopped)
-* 4 garlic clove (diced)
+**Preparation:**
+
+* 600g fresh whole or sliced fish
+* 2 tomato (sliced)
+* Red, green and yellow bell pepper (sliced)
+* 2 red chilli (sliced)
+* 1 stalk lemongrass (_pounded_)
 * 75g [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/)
 
 **Direction:**
 
-1. Heat up 1 tablespoon of cooking oil. Scoop 75g of [Khimyan Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) and sauté with the garlic clove for 1 minute or until aromatic.
-2. Add the shrimp, squid, and egg omelette and pan-fry for about 3 minutes.
-3. Add the noodle and pan-fry for another 5 minutes or until the noodle are cooked.
-4. Serve hot!
+1. Place the cleaned fish on a plate, arrange the sliced bell pepper and tomato to the side of the fish.
+2. Spread 75g of [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) on top of the fish, garnish with the chilli then placed it inside a wok for steaming.
+3. A big fish might take 10-15 minutes, while smaller ones will take less time to cook in the steam.
+4. Once the fish is cooked, serve immediately with rice.
