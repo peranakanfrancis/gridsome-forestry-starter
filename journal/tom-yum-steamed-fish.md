@@ -13,11 +13,11 @@ And as you'd probably expect, the dish came out well. Very well, in fact. The sp
 
 And when it came to the preparation, all you needed to do was make sure you descale and clean the fish properly, then you spread some [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) on the fish, garnish it with some vegetables and then proceed to steam it. And just like that, you've got a delicious and incredibly taste steam fish ready for you in just a few minutes. enjoy this dish with friends and family - they'll thank you for it!
 
+![](/uploads/tomyam-steam-fish.JPG)
+
 ***
 
-### This Spicy, Sour, and Tangy Tom Yum Steamed Fish Recipe serves 4
-
-**Preparation:**
+### **Preparation:**
 
 * 600g fresh whole or sliced fish
 * 2 tomato (sliced)
@@ -26,7 +26,9 @@ And when it came to the preparation, all you needed to do was make sure you desc
 * 1 stalk lemongrass (_pounded_)
 * 75g [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/)
 
-**Direction:**
+  ***
+
+### **Direction:**
 
 1. Place the cleaned fish on a plate, arrange the sliced bell pepper and tomato to the side of the fish.
 2. Spread 75g of [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) on top of the fish, garnish with the chilli then placed it inside a wok for steaming.
