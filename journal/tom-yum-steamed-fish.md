@@ -1,6 +1,6 @@
 ---
 date: 2021-04-21
-title: Tom Yum Steamed Fish
+title: Tom Yum Steam Fish
 author: Peter Tan
 excerpt: 'A big thank you goes to my Aunt who came up with this mouth-watering steamed
   fish with tom yum and who is kind enough to share it with family and friends (and
