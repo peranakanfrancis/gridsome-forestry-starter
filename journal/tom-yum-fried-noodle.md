@@ -25,7 +25,9 @@ As they say in French: _Bon Appetit!_
 * 4 garlic clove (diced)
 * 75g [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/)
 
-**Direction:**
+  ***
+
+### **Direction:**
 
 1. Heat up 1 tablespoon of cooking oil. Scoop 75g of [Khimyan Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) and sauté with the garlic clove for 1 minute or until aromatic.
 2. Add the shrimp, squid, and egg omelette and pan-fry for about 3 minutes.
