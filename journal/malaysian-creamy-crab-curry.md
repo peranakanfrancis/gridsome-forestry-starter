@@ -1,36 +1,46 @@
 ---
-date: 2021-04-21
+date: 2021-04-22
 title: Malaysian creamy crab curry
 author: Peter Tan
-excerpt: 'A big thank you goes to my Aunt who came up with this mouth-watering steamed
-  fish with tom yum and who is kind enough to share it with family and friends (and
-  of course, me!). '
+excerpt: " A curry crab full of flavour bomb that loved by a lot of foodie."
 
 ---
-A big thank you goes to my Aunt who came up with this mouth-watering steamed fish with tom yum and who is kind enough to share it with family and friends (and of course, me!). Her story goes like this: She was preparing dinner in the kitchen one day when she discovered some leftover [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) in the refrigerator. She also had a big white fish in the refrigerator, so naturally, her quick mind though: why not combine the two? And that's how she came up with the idea to steam the fish with the Tom Yum paste. She had never cooked such a dish before, but due to her cooking skills, she came up with a recipe that does all the ingredients proud.
+I have a hate-love relationship toward crab - I love it's tender and juicy meat but at the same time I extremely hate to spend so much time just to crack it open. But If you are a person into crabs a lot, then you ought to try this Malaysian (and Singaporean too) most favourite Curry Crab recipe. 
 
-And as you'd probably expect, the dish came out well. Very well, in fact. The spicy, sour taste and aroma on the fresh white steam fish made drove her hungry family wild as soon as it was placed on the table. Let's just say that there were no leftovers! My Aunt then proceeded to share her recipe with her sisters, friends and neighbours. They were very excited and enthusiastic about the recipe because it was easy and quick. In fact, it took less than 25 minutes to prepare!
+Get your fishmonger to prepare the crabs, discard the hard shell and reserve the tomalley. While this dish is traditionally prepared with green mud crab in Malaysia, we used a 5kg Dungeness crab. If you can’t find green mud crab or Dungeness crab in your area, you can always use another crab like the stone crab or blue crab. 
 
-And when it came to the preparation, all you needed to do was make sure you descale and clean the fish properly, then you spread some [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) on the fish, garnish it with some vegetables and then proceed to steam it. And just like that, you've got a delicious and incredibly taste steam fish ready for you in just a few minutes. enjoy this dish with friends and family - they'll thank you for it!
+The coconut milk give quite a riches to this dish but it blends so well with the crabs and rest of the ingredients in [Khimyan Fish & Prawn Curry Paste](https://khimyancurry.com/projects/fish-curry-paste/) such as curry leaves, curry powder, garlic, ginger, star anise, cinnamon, green chilies, and chili powder. The result? A curry crab full of flavour bomb that loved by a lot of foodie.
 
-![](/uploads/tomyam-steam-fish.JPG)
+![](/uploads/kerala-crab-curry-1-800x1198.jpg)
 
 ***
 
 ### **Preparation:**
 
-* 600g fresh whole or sliced fish
-* 2 tomato (sliced)
-* Red, green and yellow bell pepper (sliced)
-* 2 red chilli (sliced)
-* 1 stalk lemongrass (_pounded_)
-* 75g [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/)
+* 5kg dungeness crab
+* 2 tablespoons of cooking oil
+* 500ml coconut milk
+* 60 ml water
+* 1 packet [Khimyan Fish & Prawn Curry Paste](https://khimyancurry.com/projects/fish-curry-paste/)
 
   ***
 
 ### **Direction:**
 
-1. Place the cleaned fish on a plate, arrange the sliced bell pepper and tomato to the side of the fish.
-2. Spread 75g of [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) on top of the fish, garnish with the chilli then placed it inside a wok for steaming.
-3. A big fish might take 10-15 minutes, while smaller ones will take less time to cook in the steam.
-4. Once the fish is cooked, serve immediately with rice.
+1. Clean the crab and chop it into pieces. Save the green and juicy stuff inside the shell and set aside.
+2. In a wok, heat the oil on high heat. Pan-Fry the (2 sprigs) curry leaves until crispy. Set aside for garnish.
+3. In the same wok, add cooking oil and heat up. Pour 1 packet of [Khimyan Fish & Prawn Curry Paste](https://khimyancurry.com/projects/fish-curry-paste/) and pan-fry until fragrant.
+4. Add the crab, 60ml water and 500ml of coconut milk. Turn the heat on high and bring the sauce to a boil. Then lower the heat to medium and continue to pan-fry the crab for about 10 minutes.
+5. Add the green and juicy stuff from the shell and continue stirring for about 2 minutes or until all crab pieces turned red.
+6. Continue to cook for another 5 minutes or until the sauce has thicken. Garnish the crab with fried curry leaves.
+7. Serve hot and enjoy it with rice or bread.
+
+***
+
+### What our customers say about this
+
+> _"I've tried the fish curry, and it also easy to cook, I always thought that cook a bowl of curry need a lot of ingredients and works but now I'm wrong as with this convenient packet, I can cook whenever I wasn't as long as I get a fresh fish from supermarket and few more ingredient, then I can make my own curry to eat. The taste suitable for me which my mom also said my cooking skill is improved :). You may try it sometimes and amazed your friends and family._
+>
+> _Pss: Who say guys can't cook good food at home? Try yourself."_ - **Yap Chong, Kuala Lumpur**
+
+> _"It is very very good. i can honestly say that it tastes authentic like you can find in a good hawker or restaurant in Penang. It has been difficult to even get good tasting food in Penang nowaday, yours just perfect to at least come as an option. keep it up."_ - **Lim Yuh Hock, Kuala Lumpur**
