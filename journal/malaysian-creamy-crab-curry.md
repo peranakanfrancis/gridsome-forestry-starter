@@ -1,6 +1,6 @@
 ---
 date: 2021-04-22
-title: Malaysian creamy crab curry
+title: Malaysian Creamy Crab Curry
 author: Peter Tan
 excerpt: " A curry crab full of flavour bomb that loved by a lot of foodie."
 
