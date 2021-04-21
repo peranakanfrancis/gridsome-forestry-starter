@@ -2,9 +2,11 @@
 date: 2021-04-21
 title: Tom Yum Steamboat
 author: Peter Tan
-excerpt: 'A big thank you goes to my Aunt who came up with this mouth-watering steamed
-  fish with tom yum and who is kind enough to share it with family and friends (and
-  of course, me!). '
+excerpt: We love throwing dinner parties at home for family and friends - the joy
+  of eating something prepared at home and the ease of lounging at a familiar place
+  cannot be compared to commercial restaurants with closing hours and little privacy.
+  So we came up with an idea of throwing a simple steamboat party menu in less than
+  30 minutes.
 
 ---
 We love throwing dinner parties at home for family and friends - the joy of eating something prepared at home and the ease of lounging at a familiar place cannot be compared to commercial restaurants with closing hours and little privacy. So we came up with an idea of throwing a simple steamboat party menu in less than 30 minutes.
