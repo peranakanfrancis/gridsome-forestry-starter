@@ -1,36 +1,48 @@
 ---
-date: 2021-04-21
+date: 2021-04-22
 title: Roti Jala with Curry Chicken
 author: Peter Tan
-excerpt: 'A big thank you goes to my Aunt who came up with this mouth-watering steamed
-  fish with tom yum and who is kind enough to share it with family and friends (and
-  of course, me!). '
+excerpt: With this Roti Jala Recipe, and the right techniques and tools, you can make
+  fresh and healthy low fat Roti Jala to rival anything you could find outside.
 
 ---
-A big thank you goes to my Aunt who came up with this mouth-watering steamed fish with tom yum and who is kind enough to share it with family and friends (and of course, me!). Her story goes like this: She was preparing dinner in the kitchen one day when she discovered some leftover [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) in the refrigerator. She also had a big white fish in the refrigerator, so naturally, her quick mind though: why not combine the two? And that's how she came up with the idea to steam the fish with the Tom Yum paste. She had never cooked such a dish before, but due to her cooking skills, she came up with a recipe that does all the ingredients proud.
+The literal translation of Roti Jala is “net pancake” in Malay. It a beautiful name in English – lace pancake, which derives from the delicate, lace-like texture and appearance of the pancake. These lacy and net-like pancakes are very popular to be found at the pasar malam (a.k.a night market) or during the Muslim fasting month of Ramadan, where vendors set up temporary stalls selling roti jala to go with various curries offered. With this Roti Jala Recipe, and the right techniques and tools, you can make fresh and healthy low fat Roti Jala to rival anything you could find outside. And as you control the ingredients, you can customise it to suit your style.
 
-And as you'd probably expect, the dish came out well. Very well, in fact. The spicy, sour taste and aroma on the fresh white steam fish made drove her hungry family wild as soon as it was placed on the table. Let's just say that there were no leftovers! My Aunt then proceeded to share her recipe with her sisters, friends and neighbours. They were very excited and enthusiastic about the recipe because it was easy and quick. In fact, it took less than 25 minutes to prepare!
+For the batter section of this Roti Jala recipe we will use a low fat milk. The most challenging part of the Roti Jala recipe is to make the into a lacy net with lightning speed to prevent the crepe from being burnt.These lacy and net-like pancakes are very popular during the Muslim fasting month of Ramadan, where vendors set up temporary stalls selling roti jala to go with various curries offered.
 
-And when it came to the preparation, all you needed to do was make sure you descale and clean the fish properly, then you spread some [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) on the fish, garnish it with some vegetables and then proceed to steam it. And just like that, you've got a delicious and incredibly taste steam fish ready for you in just a few minutes. enjoy this dish with friends and family - they'll thank you for it!
+No Roti Jala is complete without curries, not only it looks seductive on a plate, they are addictive when used to mop up curry sauce too! So, in this recipe we whipped up some [Curry Chicken](https://khimyancurry.com/journal/chicken-curry/) that made with [Khimyan Curry Chicken Paste](https://khimyancurry.com/projects/sunk/) but you can also serve Roti Jala with [Kapitan Curry](https://khimyancurry.com/journal/kapitan-chicken-curry/) or [Fish & Prawn Curry](https://khimyancurry.com/journal/macos-development-environment/).
 
-![](/uploads/tomyam-steam-fish.JPG)
+![](/uploads/roti-jala.jpg)
 
 ***
 
 ### **Preparation:**
 
-* 600g fresh whole or sliced fish
-* 2 tomato (sliced)
-* Red, green and yellow bell pepper (sliced)
-* 2 red chilli (sliced)
-* 1 stalk lemongrass (_pounded_)
-* 75g [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/)
+_For the Roti Jala_
 
-  ***
+* 250g all purpose flour
+* 350ml low fat milk
+* 100ml water
+* 2 egg
+* 1/2 teaspoon salt
+* 1 teaspoon turmeric powder
+* 1/2 tablespoon (ghee or butter to grease the pan)
+
+_For the Curry_
+
+Depends on your own preferences you can refer to the respective curry recipes such as [Chicken Curry](https://khimyancurry.com/journal/chicken-curry/), [Kapitan Curry](https://khimyancurry.com/journal/kapitan-chicken-curry/) or [Fish & Prawn Curry](https://khimyancurry.com/journal/macos-development-environment/) .
+
+***
 
 ### **Direction:**
 
-1. Place the cleaned fish on a plate, arrange the sliced bell pepper and tomato to the side of the fish.
-2. Spread 75g of [Khimyan Thai Tom Yum Sauce](https://khimyancurry.com/projects/3d-graff/) on top of the fish, garnish with the chilli then placed it inside a wok for steaming.
-3. A big fish might take 10-15 minutes, while smaller ones will take less time to cook in the steam.
-4. Once the fish is cooked, serve immediately with rice.
+1. Mix the all purpose flour, salt and turmeric together in a large bowl and make a well in the middle. Add the eggs to the well, plus a good splash of the milk and water mix. Whisk until smooth and thick, without any lumps. Gradually whisk in the rest of the milk and water mix until a thin “crepe-like batter” is achieved.
+2. Strain the batter through a fine sieve.
+3. Heat up a pan with medium heat and grease it with some ghee or butter.
+4. Put a ladleful of batter into a roti jala mould and in a circular motion, form a thin lacy pattern in the pan.
+5. After the top is set and done or when the bottom turns light brown (after about 30 secs), transfer the Roti Jala out and fold it into triangle shape. These roti jala cook very quickly, so watch them closely. Repeat with the remaining batter, adding more oil as needed.
+6. Arrange the Roti Jala on serving plate and dip it with your favorite curry on the side and serve when it's still hot.
+
+###### _Tips:_ 
+
+_As an alternative to the roti jala mould, you can also use a ketchup dispenser, just pour the sieved batter from the measuring cup into the ketchup dispenser. For this purpose, you will need a medium to large sized measuring cup._
